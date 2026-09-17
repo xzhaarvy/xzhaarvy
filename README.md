@@ -27,4 +27,4 @@ A passionate explorer in **IoT Systems, Embedded Devices, and Web Development**.
 
 ### 📊 GitHub Stats
 
-![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzhaarvy&show_icons=true&theme=tokyonight)
+![Fajar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzhaarvy&show_icons=true&theme=tokyonight&hide_border=true)
